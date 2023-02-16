@@ -1,2 +1,2 @@
-# Fizz-Bizz-
-Math game using JavaScript 
+# Fizz-Buzz
+Math game created with JavaScript 
